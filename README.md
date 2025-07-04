@@ -1,3 +1,3 @@
-# Goalmate
+# GoalMate
 
-A modern app built with Flutter.
+A Flutter app for goal tracking and habit building.
